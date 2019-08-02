@@ -1,0 +1,12 @@
+{
+    "name": "package-extend-resolver-plugin",
+    "version": "0.0.4",
+    "author": {
+        "name": "Davit Barbakadze",
+        "email": "jayarjo@gmail.com"
+    },
+    "main": "./index.js",
+    "dependencies": {
+        "bundlewiz": "0.x"
+    }
+}
